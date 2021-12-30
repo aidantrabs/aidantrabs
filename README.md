@@ -13,7 +13,7 @@
                              
 </ul>
 <hr>
-<p><a href="https://github.com/aidantrabs/"><img src="https://img.shields.io/github/followers/aidantrabs?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
+<p><img src="https://komarev.com/ghpvc/?username=aidantrabs&style=flat-square"> <a href="https://github.com/aidantrabs/"><img src="https://img.shields.io/github/followers/aidantrabs?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
 </p>
   <!-- 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
