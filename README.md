@@ -13,7 +13,7 @@
  ```
  
 
- <img src="https://media3.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width=300px/>
+ <img src="https://media3.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width=250px/>
 
       
 
