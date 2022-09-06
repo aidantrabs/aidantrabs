@@ -19,5 +19,3 @@
 <a href="https://linkedin.com/in/aidan-traboulay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aidan-traboulay" height="30" width="40" /></a>
 <a href="https://instagram.com/aidantraboulayy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aidantraboulayy" height="30" width="40" /></a>
 </p>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aidantrabs&show_icons=true&locale=en&layout=compact&theme=dark&hide=html,css,glsl" alt="nathanielfernandes" />
