@@ -13,12 +13,12 @@
 <hr>
 
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">🔌 Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/aidan-traboulay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aidan-traboulay" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Currently having fun with:</h3>
+<h3 align="center">💻 Currently having fun with:</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="aidan-traboulay"/></a>
 <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" alt="aidan-traboulay"/></a>
