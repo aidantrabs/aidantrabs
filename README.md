@@ -1,34 +1,30 @@
+<div align="center">
 
- <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=aidantrabs&style=flat-square">
-  <img src="https://img.shields.io/github/followers/aidantrabs?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/> 
- </p>
-
-<div align="left">
- <h2>  Hi, I'm Aidan <img src="https://github.com/aidantrabs/aidantrabs/blob/main/src/assets/wave.gif" width="25" />  </h2>
-</div>
-
-#### < :memo: About me />
-- :mortar_board: Third year Computer Science student at **[WLU](https://www.wlu.ca/)**
-- :european_castle: Vice President of Development & Technology at **[Laurier Computing Society](https://lauriercs.ca)**
-- :space_invader: Vice President of Development & Technology at **[HawkHacks](https://hawkhacks.ca)**
-- :file_folder: Learn more about me [here](https://aidantraboulay.tech)
-
-#### < :round_pushpin: Connect with me />
-- :mailbox_with_mail: `Email` [trab5590@mylaurier.ca](mailto:trab5590@mylaurier.ca)
-- :necktie: `Linkedin` [in/aidan-traboulay](https://linkedin.com/in/aidan-traboulay)
+```
+ █████╗ ██╗██████╗  █████╗ ███╗   ██╗
+██╔══██╗██║██╔══██╗██╔══██╗████╗  ██║
+███████║██║██║  ██║███████║██╔██╗ ██║
+██╔══██║██║██║  ██║██╔══██║██║╚██╗██║
+██║  ██║██║██████╔╝██║  ██║██║ ╚████║
+╚═╝  ╚═╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
+```
 
 <hr>
 
-<div align="center">
- <details>
-  <summary>:octocat:</summary>
+#### :question: About me 
 
+Third year student in Computer Science at [WLU](https://wlu.ca)  
+Vice President of Development & Technology at [Laurier Computing Society](https://lauriercs.ca)  
+Vice President of Development & Technology at [HawkHacks](https://hawkhacks.ca)  
+Currently having fun with: `.c`, `.rs`, `.sh`, `.go`  
 
-  <br/>
+<hr>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aidantrabs&show_icons=true&locale=en&layout=compact&theme=dark&hide=html,css,glsl" alt="aidantrabs" />
+#### :speech_balloon: Reach out to me 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=aidantrabs&show_icons=true&locale=en&layout=compact&theme=dark" alt="aidantrabs" />
- </details>
-</div>
+Email : [trab5590@mylaurier.ca](mailto:trab5590@mylaurier.ca)  
+Linkedin : [in/aidan-traboulay](https://linkedin.com/in/aidan-traboulay)  
+
+<hr>
+
+##### wanna know more? check out my site - [aidantraboulay.tech](https://aidantraboulay.tech)
