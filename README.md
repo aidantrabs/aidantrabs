@@ -15,9 +15,9 @@
 
 #### :question: About me 
 
-Third year student in Computer Science at [WLU](https://wlu.ca)  
+Fourth year student in Computer Science at [WLU](https://wlu.ca)  
 Vice President of Development & Technology at [Laurier Computing Society](https://lauriercs.ca)  
-Vice President of Development & Technology at [HawkHacks](https://hawkhacks.ca)  
+Vice President of Engineering at [HawkHacks](https://hawkhacks.ca)  
 Currently having fun with: `.c`, `.rs`, `.sh`, `.go`  
 
 <hr>
