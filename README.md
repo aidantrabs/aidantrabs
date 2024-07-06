@@ -1,5 +1,4 @@
 <pre>
-  back and forth between ontario & florida
   currently writing a lot of .ts and .rs
   
   want to be overwhelmed with info about me? check out <a href="https://aidantraboulay.dev" target="_blank">aidantraboulay.dev</a>
